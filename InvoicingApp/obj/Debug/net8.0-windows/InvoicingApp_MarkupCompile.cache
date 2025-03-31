@@ -1,0 +1,20 @@
+﻿InvoicingApp
+
+
+winexe
+C#
+.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\
+InvoicingApp
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\App.xaml
+14-567950672
+
+22-94218433
+206630115202
+Windows\Customer CRUD\CreateNewCustomer.xaml;Windows\Customer CRUD\DeleteCustomer.xaml;Windows\Customer CRUD\ShowAllCustomers.xaml;Windows\Customer CRUD\UpdateCustomer.xaml;Windows\Invoice CRUD\CreateNewInvoice.xaml;Windows\Invoice CRUD\DeleteInvoice.xaml;Windows\Invoice CRUD\ShowAllInvoices.xaml;Windows\Invoice CRUD\UpdateInvoice.xaml;Windows\InvoiceView.xaml;Windows\MainWindow.xaml;Windows\Product CRUD\CreateNewProduct.xaml;Windows\Product CRUD\DeleteProduct.xaml;Windows\Product CRUD\ShowAllProducts.xaml;Windows\Product CRUD\UpdateProduct.xaml;
+
+False
+

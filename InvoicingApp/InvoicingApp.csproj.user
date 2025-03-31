@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Windows\Customer CRUD\CreateNewCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Invoice CRUD\CreateNewInvoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Product CRUD\CreateNewProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Customer CRUD\DeleteCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Invoice CRUD\DeleteInvoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Product CRUD\DeleteProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\InvoiceView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Customer CRUD\ShowAllCustomers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Invoice CRUD\ShowAllInvoices.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Product CRUD\ShowAllProducts.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Customer CRUD\UpdateCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Invoice CRUD\UpdateInvoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Product CRUD\UpdateProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Windows\Customer CRUD\CreateNewCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Invoice CRUD\CreateNewInvoice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Product CRUD\CreateNewProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Customer CRUD\DeleteCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Invoice CRUD\DeleteInvoice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Product CRUD\DeleteProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\InvoiceView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Customer CRUD\ShowAllCustomers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Invoice CRUD\ShowAllInvoices.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Product CRUD\ShowAllProducts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Customer CRUD\UpdateCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Invoice CRUD\UpdateInvoice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Product CRUD\UpdateProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

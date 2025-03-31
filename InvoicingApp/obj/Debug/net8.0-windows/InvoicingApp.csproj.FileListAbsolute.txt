@@ -1,0 +1,64 @@
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.csproj.AssemblyReference.cache
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\App.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp_MarkupCompile.cache
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp_MarkupCompile.lref
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\InvoicingApp.exe
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\InvoicingApp.deps.json
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\InvoicingApp.runtimeconfig.json
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\InvoicingApp.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\InvoicingApp.pdb
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.g.resources
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.AssemblyInfoInputs.cache
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.AssemblyInfo.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.csproj.CoreCompileInputs.cache
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Invoicin.26F1B8C2.Up2Date
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\refint\InvoicingApp.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.pdb
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\InvoicingApp.genruntimeconfig.cache
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\ref\InvoicingApp.dll
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\CreateNewInvoice.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\CreateNewInvoice.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\DeleteInvoice.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\ShowAllInvoices.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\UpdateInvoice.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\DeleteInvoice.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\ShowAllInvoices.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Invoice CRUD\UpdateInvoice.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\DeleteProduct.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\CreateNewCustomer.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\DeleteCustomer.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\ShowAllCustomers.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\UpdateCustomer.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\InvoiceView.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\CreateNewProduct.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\DeleteProduct.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\ShowAllProducts.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\UpdateProduct.g.cs
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\CreateNewCustomer.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\DeleteCustomer.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\ShowAllCustomers.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Customer CRUD\UpdateCustomer.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\InvoiceView.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\CreateNewProduct.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\ShowAllProducts.baml
+D:\Koulujutut\Visual Studio Projects\Käyttöliittymäohjelmointi\GUI Exercise\InvoicingApp\obj\Debug\net8.0-windows\Windows\Product CRUD\UpdateProduct.baml

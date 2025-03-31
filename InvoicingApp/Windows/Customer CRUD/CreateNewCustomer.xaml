@@ -1,0 +1,24 @@
+﻿<Window x:Class="InvoicingApp.CreateNewCustomer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InvoicingApp"
+        mc:Ignorable="d"
+        Title="Create Customer" Height="200" Width="370">
+
+    <Canvas>
+        <Label Content="Customer Name" Canvas.Left="10" Canvas.Top="10"/>
+        <Label Content="Street Address" Canvas.Left="10" Canvas.Top="35"/>
+        <Label Content="Postal Code" Canvas.Left="10" Canvas.Top="60" />
+        <Label Content="City" Canvas.Left="10" Canvas.Top="85" />
+
+        <TextBox Canvas.Left="115" Canvas.Top="15" Width="200" Text="{Binding Name}" />
+        <TextBox Canvas.Left="115" Canvas.Top="40" Width="200" Text="{Binding StreetAddress}" />
+        <TextBox Canvas.Left="115" Canvas.Top="65" Width="200" Text="{Binding PostalCode}" />
+        <TextBox Canvas.Left="115" Canvas.Top="90" Width="200" Text="{Binding City}" />
+
+        <Button Content="Save" Canvas.Left="200" Canvas.Top="115" Width="55" Click="SaveClicked" />
+        <Button Content="Cancel" Canvas.Left="260" Canvas.Top="115" Width="55" Click="CancelClicked" />
+    </Canvas>
+</Window>

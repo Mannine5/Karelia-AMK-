@@ -1,0 +1,41 @@
+﻿<Window x:Class="InvoicingApp.ShowAllProducts"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InvoicingApp"
+        mc:Ignorable="d"
+       Title="Show All Products" Height="450" Width="800">
+
+    <Grid>
+
+        <TextBlock Grid.Row="2" x:Name="LoadingMessage"
+                               Text="Loading Products..."
+                               FontSize="30"
+                               Foreground="Gray"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               Visibility="Collapsed"/>
+
+        <TextBlock Grid.Row="2" x:Name="NoProductsMessage"
+                               Text="No Products"
+                               FontSize="30"
+                               Foreground="Gray"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               Visibility="Collapsed"/>
+
+        <DataGrid x:Name="ProductsDataGrid" 
+                 AutoGenerateColumns="False"
+                 SelectionMode="Single"
+                 IsReadOnly="True"
+                 MouseDoubleClick="ProductsDataGrid_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Product ID" Binding="{Binding ProductId}" Width="90"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="*"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price, StringFormat='{}{0:F2} €'}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,117 @@
+﻿<Window x:Class="InvoicingApp.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InvoicingApp"
+        mc:Ignorable="d"
+        Title="Invoicing Application" Height="1050" Width="920">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--Menu & Toolbar-->
+        <StackPanel>
+            <Menu>
+                <MenuItem Header="File">
+                    <MenuItem Header="Close" Click="CloseClicked"/>
+                </MenuItem>
+
+                <MenuItem Header="About">
+                    <MenuItem Header="Version info..." Click="VersionClicked"/>
+
+                </MenuItem>
+            </Menu>
+
+            <ToolBar>
+                <Button Content="&lt;&lt;" Click="FirstClicked"/>
+                <Button Content="&lt;" Click="PreviousClicked" />
+                <Separator/>
+                <Button Content="&gt;" Click="NextClicked"/>
+                <Button Content="&gt;&gt;" Click="LastClicked" />
+            </ToolBar>
+        </StackPanel>
+
+
+        <DockPanel Grid.Row="1" LastChildFill="True">
+            <StackPanel DockPanel.Dock="Left"  Grid.Row="1" Width="150" Background="LightGray" >
+
+                <!--Invoices-->
+                <Expander IsExpanded="True">
+                    <Expander.Header>
+                        <TextBlock Text="Invoices" FontWeight="Bold"/>
+                    </Expander.Header>
+
+                    <StackPanel>
+                        <Button Content="Create Invoice" Canvas.Left="558" Canvas.Top="130" Margin="5" Click="CreateNewInvoiceClicked"/>
+                        <Button Content="Show All Invoices" Margin="5" Click="ShowAllInvoices" />
+                        <Button Content="Update Invoice..." Margin="5" Click="UpdateInvoiceClicked"/>
+                        <Button Content="Delete Invoice" Margin="5" Click="DeleteInvoiceClicked" />
+                    </StackPanel>
+                </Expander>
+
+                <!--Customers-->
+                <Expander IsExpanded="True">
+                    <Expander.Header>
+                        <TextBlock Text="Customers" FontWeight="Bold"/>
+                    </Expander.Header>
+                    <StackPanel>
+                        <Button Content="Create Customer" Canvas.Left="558" Canvas.Top="100" Margin="5" Click="CreateNewCustomer"/>
+                        <Button Content="Show All Customer" Margin="5" Click="ShowAllCustomers" />
+                        <Button Content="Update Customer" Margin="5" Click="UpdateCustomerClicked" />
+                        <Button Content="Delete Customer" Margin="5" Click="DeleteCustomerClicked"/>
+                    </StackPanel>
+                </Expander>
+
+                <!--Products-->
+                <Expander IsExpanded="True">
+                    <Expander.Header>
+                        <TextBlock Text="Products" FontWeight="Bold"/>
+                    </Expander.Header>
+                    <StackPanel>
+                        <Button Content="Create Product" Canvas.Left="558" Canvas.Top="10" Margin="5" Click="CreateNewProduct"/>
+                        <Button Content="Show All Products" Margin="5" Click="ShowAllProducts" />
+                        <Button Content="Update Product" Canvas.Left="558" Canvas.Top="70" Margin="5" Click="UpdateProduct"/>
+                        <Button Content="Delete Product" Canvas.Left="558" Canvas.Top="40" Margin="5" Click="DeleteProduct"/>
+                    </StackPanel>
+                </Expander>
+            </StackPanel>
+
+            <!-- Main Content (InvoiveView)-->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="80"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock x:Name="LoadingMessage"
+                           Text="Loading Invoices..."
+                           FontSize="30"
+                           Foreground="Gray"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Visibility="Collapsed"/>
+
+                <TextBlock x:Name="NoInvoicesMessage"
+                           Text="No Invoices"
+                           FontSize="30"
+                           Foreground="Gray"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Visibility="Collapsed"/>
+
+                <ContentControl x:Name="MainContent" />
+
+                <Canvas Grid.Row="1">
+
+                    <!--Save & Cancel-->
+                    <Button Content="Update" Canvas.Right="20" Canvas.Top="20" Height="40" Width="100" FontSize="20" Click="UpdateCurrentInvoice" />
+                    <Button Content="Delete" Canvas.Right="130" Canvas.Top="20" Height="40" Width="100" FontSize="20" Click="DeleteCurrentInvoice"/>
+                </Canvas>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>
